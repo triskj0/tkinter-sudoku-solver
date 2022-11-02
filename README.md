@@ -11,5 +11,5 @@
 ### solve_board.py
 - the algorithm
 
-![screenshot](https://github.com/triskj0/tkinter-sudoku-solver/blob/main/sudoku-solver-screenshot.png)
-![screenshot](https://github.com/triskj0/tkinter-sudoku-solver/blob/main/sudoku-solver-screenshot1.png)
+![screenshot](https://github.com/triskj0/tkinter-sudoku-solver/blob/main/screenshots/sudoku-solver-screenshot.png)
+![screenshot](https://github.com/triskj0/tkinter-sudoku-solver/blob/main/screenshots/sudoku-solver-screenshot1.png)
